@@ -219,7 +219,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: You are the monster
+  m_Text: You are the monster!
 --- !u!222 &563604035
 CanvasRenderer:
   m_ObjectHideFlags: 0

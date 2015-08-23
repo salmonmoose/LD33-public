@@ -55848,7 +55848,7 @@ AnimationClip:
     floatParameter: 0
     intParameter: 0
     messageOptions: 0
-  - time: 39.8666649
+  - time: 35
     functionName: Blackout
     data: 
     objectReferenceParameter: {fileID: 0}
