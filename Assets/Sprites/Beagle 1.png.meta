@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: 4e12e66926e7fc34cbdeae5abb805291
+timeCreated: 1440240345
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Beagle 1_0
+    21300002: Beagle 1_1
+    21300004: Beagle 1_2
+    21300006: Beagle 1_3
+    21300008: Beagle 1_4
+    21300010: Beagle 1_5
+    21300012: Beagle 1_6
+    21300014: Beagle 1_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Beagle 1_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 823
+        width: 351
+        height: 650
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beagle 1_1
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1245
+        width: 98
+        height: 136
+      alignment: 9
+      pivot: {x: .163953513, y: .131510124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beagle 1_2
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1131
+        width: 135
+        height: 78
+      alignment: 9
+      pivot: {x: .0969613567, y: .206287876}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beagle 1_3
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1011
+        width: 150
+        height: 43
+      alignment: 9
+      pivot: {x: .0199999996, y: .400101066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beagle 1_4
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 908
+        width: 148
+        height: 29
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beagle 1_5
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 751
+        width: 88
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beagle 1_6
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 723
+        width: 121
+        height: 93
+      alignment: 9
+      pivot: {x: .100000001, y: .807923675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beagle 1_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 111
+        width: 627
+        height: 591
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
